@@ -24,3 +24,9 @@ ul{
     list-style: none;
     text-decoration: none;
 }
+.card mb-3{
+  max-width: 800px;
+}
+.card-text{
+    max-width: 400px;
+}
