@@ -25,7 +25,7 @@ ul{
     text-decoration: none;
 }
 .card mb-3{
-  max-width: 800px;
+  max-width: 500px;
 }
 .card-text{
     max-width: 400px;
