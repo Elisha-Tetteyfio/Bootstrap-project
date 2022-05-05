@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-project",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elisha-Tetteyfio/Bootstrap-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elisha-Tetteyfio/Bootstrap-project/issues"
+  },
+  "homepage": "https://github.com/Elisha-Tetteyfio/Bootstrap-project#readme",
+  "devDependencies": {
+    "hint": "^6.2.0"
+  }
+}
