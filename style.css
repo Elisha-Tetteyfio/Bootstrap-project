@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Roboto&display=swap');
 
-*{
-    padding: 0;
-    margin: 0;
-    font-family: "Roboto" , sans-serif;
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto" , sans-serif;
 }
+
 body {
   margin: 0;
 }
@@ -17,18 +18,22 @@ body {
 .mx-auto {
   width: 500px;
 }
-hr{
-    color: black;
+
+hr {
+  color: black;
 }
-ul{
-    list-style: none;
-    text-decoration: none;
+
+ul {
+  list-style: none;
+  text-decoration: none;
 }
-.card mb-3{
+
+.card mb-3 {
   max-width: 500px;
 }
-.card-text{
-    max-width: 400px;
+
+.card-text {
+  max-width: 400px;
 }
 
 #c1 {
