@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+.navbar {
+  margin: 0;
+  padding: 0;
+}
+
+.mx-auto {
+  width: 500px;
+}
